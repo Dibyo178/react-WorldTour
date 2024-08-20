@@ -1,0 +1,25 @@
+.c_border{
+
+     border: 2px solid salmon;
+     margin: 15px;
+     padding: 15px;
+     border-radius: 15px;
+}
+
+
+.btn{
+
+   background: black;
+
+   color: aliceblue;
+     
+}
+
+img{
+ /* width: 110px; */
+ height: 100px;
+}
+
+.visited{
+    background: antiquewhite;
+}
